@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor,AdaBoostRegressor
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.tree import DecisionTreeRegressor
-from xgboost import XGBRegressor
+ 
 
 from sklearn import metrics
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
